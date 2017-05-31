@@ -28,7 +28,7 @@ SECRET_KEY = '!i$^c=@fs+vf_lc=_ok#6_o)&j%z2(f$0m%k=elm8r%4ur^(23'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['192.168.10.10', 'localhost', '34.201.251.33']
 
 
 # Application definition
